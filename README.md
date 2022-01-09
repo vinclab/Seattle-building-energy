@@ -1,4 +1,4 @@
-# Seattle-building-energy
+# Seattle-building-energy-prediction
 Anticipate the needs in electrical consumption of Seattle buildings 
 
 Data link:
